@@ -1,4 +1,4 @@
-# [AWVS14 Docker](https://blog.zygd.site/AWVS14%20Docker.html)
+# AWVS14 Docker
 
 
 ## INFO
